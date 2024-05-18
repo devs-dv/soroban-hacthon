@@ -5,7 +5,7 @@ Decentralized Energy Trading
 
 ## Developer
 - Divyanshu Verma
-- Mohd Moshin
+- Mohd Mohsin
 
 ## Comprehensive Description Of Your Project
 The Decentralized Energy Trading project aims to empower individuals with solar panels to sell excess energy directly to their neighbors. By leveraging blockchain technology and smart contracts, this platform automates the process of energy trading, distribution, and billing based on energy usage data. It eliminates the need for intermediaries and provides a transparent, efficient, and decentralized marketplace for energy exchange.
