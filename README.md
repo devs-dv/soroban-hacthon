@@ -13,8 +13,6 @@ The Decentralized Energy Trading project aims to empower individuals with solar 
 ## Vision
 Our vision is to create a sustainable and equitable energy ecosystem where individuals can actively participate in energy trading, promote renewable energy adoption, and contribute to building a cleaner environment. By facilitating peer-to-peer energy transactions, we aim to democratize the energy market and empower individuals to take control of their energy production and consumption.
 
-## Logo
-(Insert logo image here)
 
 ## Deployment Details
 - **Smart Contract:** The smart contract is written in Rust and deployed on a testnet.
